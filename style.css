@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Lobster&family=Oswald:wght@200&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Lobster&family=Open+Sans:wght@500&family=Oswald:wght@200&family=Satisfy&display=swap');
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+header h1{
+    text-align: center;
+    font-size: 50px;
+    border-bottom: 10px groove hotpink;
+    font-family: Lobster;
+}
+.photo img{
+    width: 35%;
+}
+.photo{
+    text-align: center;
+}
+.photo p{
+    font-size: 20px;
+    font-family: Open Sans;
+}
+.bio p{
+    text-align: justify;
+    font-size: 18px;
+    border-bottom: 3px ridge hsl(330, 95%, 60%);
+}
+.ourteam h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: Lobster;
+}
+.ourteam p{
+    font-size: 20px;
+    font-family: Open Sans;
+}
+.staff{
+    text-align: center;
+    float: left;
+    width: 33.3%;
+}
+.staff img{
+    border-radius: 50%;
+    width: 50%;
+}
